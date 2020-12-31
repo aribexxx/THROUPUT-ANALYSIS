@@ -1,0 +1,17 @@
+Date,num_departure,departure,num_arrive,arrive,num_inflow,inflow
+9/1/2020,88.05,departure,213.64,arrive,125.59,inflow
+8/1/2020,137.03,departure,63.9,arrive,-73.13,inflow
+7/1/2020,261.61,departure,99.94,arrive,-161.67,inflow
+6/1/2020,94.97,departure,179.33,arrive,84.36,inflow
+5/1/2020,50.06,departure,165.13,arrive,115.07,inflow
+4/1/2020,87.63,departure,88.8,arrive,1.17,inflow
+3/1/2020,1008.52,departure,855.87,arrive,-152.65,inflow
+2/1/2020,3950.9,departure,3321.66,arrive,-629.24,inflow
+1/1/2020,35158.44,departure,32626.56,arrive,-2531.88,inflow
+12/1/2019,78276.82,departure,78019.55,arrive,-257.27,inflow
+10/1/2019,99973.43,departure,95993.14,arrive,-3980.29,inflow
+9/1/2019,89533.14,departure,88433.14,arrive,-1100,inflow
+7/1/2019,96661,departure,97565,arrive,904,inflow
+6/1/2019,181664,departure,175771.8,arrive,-5892.2,inflow
+5/1/2019,211316.38,departure,203536.38,arrive,-7780,inflow
+4/1/2019,153252.2,departure,153690.6,arrive,438.4,inflow
